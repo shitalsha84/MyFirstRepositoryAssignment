@@ -1,7 +1,7 @@
 package task1;
 
 public class SmartCalculator 
-	//made changes 
+	
 {
 	 private double principal;
 	    private double rate;
